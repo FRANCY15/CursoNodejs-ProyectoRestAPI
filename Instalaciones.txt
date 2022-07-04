@@ -1,0 +1,11 @@
+Instalaciones necesarias para el desarrollo del proyecto:
+
+1. express
+2. mongo db
+3. http-errors
+4. dotenv
+5. debug
+6. excel4node: consultar npmjs.com
+7. Dependencia de desarrollo: nodemon
+
+Realizar consultas a mongoDB: www.mongoDB.com => docs => drivers => nodejs
